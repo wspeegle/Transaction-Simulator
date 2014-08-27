@@ -1,0 +1,891 @@
+Willie Wonka is starting the simulation with: 
+   5 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   5 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   5 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   5 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   5 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+
+Mom's candy shop is starting the simulation with: 
+  10 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   2 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  10 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   2 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  10 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+
+J&J Sweets  is starting the simulation with: 
+   2 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  10 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   2 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+  10 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   2 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+
+Iteration: 0
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 0
+Mom's candy shop : 002 has $ 9990
+Mom's candy shop : 002 has $ 9990
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 9990
+Inventory:
+  10 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  10 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  10 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 0
+J&J Sweets  : 003 has $ 19977.5
+J&J Sweets  : 003 has $ 19977.5
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 19977.5
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  10 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+  10 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 0
+Charlie : 004 has $ 22
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 0
+Sally : 005 has $ 28.6
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 0
+Mary : 006 has $ 29.7
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 0
+Bob : 007 has $ 30.8
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 10
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 10
+Mom's candy shop : 002 has $ 10275.4
+Mom's candy shop : 002 has $ 10275.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 10275.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 10
+J&J Sweets  : 003 has $ 20266
+J&J Sweets  : 003 has $ 20266
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 20266
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 10
+Charlie : 004 has $ -398.748
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 10
+Sally : 005 has $ -74.7871
+Orders:
+Order contains: 
+  31 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  34 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  31 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  34 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  31 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 10
+Mary : 006 has $ -378.776
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 10
+Bob : 007 has $ -49.6278
+Orders:
+Order contains: 
+  34 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  31 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  34 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  31 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  34 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 20
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 20
+Mom's candy shop : 002 has $ 10600.4
+Mom's candy shop : 002 has $ 10600.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 10600.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 20
+J&J Sweets  : 003 has $ 20591
+J&J Sweets  : 003 has $ 20591
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 20591
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 20
+Charlie : 004 has $ -1490.06
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 20
+Sally : 005 has $ -307.931
+Orders:
+Order contains: 
+  61 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  64 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  61 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  64 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  61 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 20
+Mary : 006 has $ -1438.26
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 20
+Bob : 007 has $ -242.674
+Orders:
+Order contains: 
+  64 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  61 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  64 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  61 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  64 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 30
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 30
+Mom's candy shop : 002 has $ 10925.4
+Mom's candy shop : 002 has $ 10925.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 10925.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 30
+J&J Sweets  : 003 has $ 20916
+J&J Sweets  : 003 has $ 20916
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 20916
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 30
+Charlie : 004 has $ -4320.64
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 30
+Sally : 005 has $ -912.646
+Orders:
+Order contains: 
+  91 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  94 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  91 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  94 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  91 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 30
+Mary : 006 has $ -4186.28
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 30
+Bob : 007 has $ -743.387
+Orders:
+Order contains: 
+  94 of Nerds                (   5     oz) at $  1.25    ( 0001)
+  91 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+  94 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+  91 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+  94 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 40
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 40
+Mom's candy shop : 002 has $ 11250.4
+Mom's candy shop : 002 has $ 11250.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 11250.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 40
+J&J Sweets  : 003 has $ 21241
+J&J Sweets  : 003 has $ 21241
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 21241
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 40
+Charlie : 004 has $ -11662.4
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 40
+Sally : 005 has $ -2481.12
+Orders:
+Order contains: 
+ 121 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 124 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 121 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 124 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 121 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 40
+Mary : 006 has $ -11313.9
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 40
+Bob : 007 has $ -2042.11
+Orders:
+Order contains: 
+ 124 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 121 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 124 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 121 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 124 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 50
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 50
+Mom's candy shop : 002 has $ 11575.4
+Mom's candy shop : 002 has $ 11575.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 11575.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 50
+J&J Sweets  : 003 has $ 21566
+J&J Sweets  : 003 has $ 21566
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 21566
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 50
+Charlie : 004 has $ -30705.2
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 50
+Sally : 005 has $ -6549.34
+Orders:
+Order contains: 
+ 151 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 154 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 151 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 154 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 151 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 50
+Mary : 006 has $ -29801.3
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 50
+Bob : 007 has $ -5410.65
+Orders:
+Order contains: 
+ 154 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 151 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 154 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 151 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 154 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 60
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 60
+Mom's candy shop : 002 has $ 11900.4
+Mom's candy shop : 002 has $ 11900.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 11900.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 60
+J&J Sweets  : 003 has $ 21891
+J&J Sweets  : 003 has $ 21891
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 21891
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 60
+Charlie : 004 has $ -80097.2
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 60
+Sally : 005 has $ -17101.3
+Orders:
+Order contains: 
+ 181 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 184 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 181 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 184 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 181 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 60
+Mary : 006 has $ -77752.6
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 60
+Bob : 007 has $ -14147.8
+Orders:
+Order contains: 
+ 184 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 181 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 184 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 181 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 184 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 70
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 70
+Mom's candy shop : 002 has $ 12225.4
+Mom's candy shop : 002 has $ 12225.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 12225.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 70
+J&J Sweets  : 003 has $ 22216
+J&J Sweets  : 003 has $ 22216
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 22216
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 70
+Charlie : 004 has $ -208207
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 70
+Sally : 005 has $ -44470.2
+Orders:
+Order contains: 
+ 211 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 214 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 211 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 214 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 211 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 70
+Mary : 006 has $ -202126
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 70
+Bob : 007 has $ -36809.7
+Orders:
+Order contains: 
+ 214 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 211 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 214 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 211 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 214 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 80
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 80
+Mom's candy shop : 002 has $ 12550.4
+Mom's candy shop : 002 has $ 12550.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 12550.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 80
+J&J Sweets  : 003 has $ 22541
+J&J Sweets  : 003 has $ 22541
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 22541
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 80
+Charlie : 004 has $ -540492
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 80
+Sally : 005 has $ -115458
+Orders:
+Order contains: 
+ 241 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 244 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 241 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 244 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 241 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 80
+Mary : 006 has $ -524719
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 80
+Bob : 007 has $ -95588.8
+Orders:
+Order contains: 
+ 244 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 241 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 244 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 241 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 244 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 90
+Willie Wonka : 001 has $ 994630
+Inventory:
+   6 of Nerds                (   1  dozen) at $ 12.00    ( 0001)
+   6 of Laffy Taffy          (   1  gross) at $144.00    ( 0002)
+   6 of Wonka Bars           (   1   case) at $ 48.00    ( 0003)
+   6 of Gobstoppers          (   1  gross) at $ 77.00    ( 0004)
+   6 of Kazoozles            (   1  gross) at $ 77.00    ( 0005)
+and the following buyers:
+Mom's candy shop
+J&J Sweets 
+Iteration: 90
+Mom's candy shop : 002 has $ 12875.4
+Mom's candy shop : 002 has $ 12875.4
+Orders:
+Sellers: 
+Willie Wonka
+Mom's candy shop : 002 has $ 12875.4
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Charlie
+Sally
+Iteration: 90
+J&J Sweets  : 003 has $ 22866
+J&J Sweets  : 003 has $ 22866
+Orders:
+Sellers: 
+Willie Wonka
+J&J Sweets  : 003 has $ 22866
+Inventory:
+   5 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   5 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   5 of Wonka Bars           (   7    oz.) at $  2.50    ( 0003)
+   5 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   5 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+and the following buyers:
+Mary
+Bob
+Iteration: 90
+Charlie : 004 has $ -1.40235e+06
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 90
+Sally : 005 has $ -299583
+Orders:
+Order contains: 
+ 271 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 274 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 271 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 274 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 271 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+Mom's candy shop
+Iteration: 90
+Mary : 006 has $ -1.36144e+06
+Orders:
+Order contains: 
+   4 of Nerds                (   5     oz) at $  1.25    ( 0001)
+   4 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+   4 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+   4 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+   4 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 
+Iteration: 90
+Bob : 007 has $ -248047
+Orders:
+Order contains: 
+ 274 of Nerds                (   5     oz) at $  1.25    ( 0001)
+ 271 of Laffy Taffy          (   1    pkg) at $  1.25    ( 0002)
+ 274 of Wonka Bars           (   1     oz) at $  2.50    ( 0003)
+ 271 of Gobstoppers          ( 100      g) at $  0.75    ( 0004)
+ 274 of Kazoozles            ( 1.8     oz) at $  0.75    ( 0005)
+Sellers: 
+J&J Sweets 

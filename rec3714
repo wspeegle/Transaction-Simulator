@@ -1,0 +1,31 @@
+Project4:
+total 300
+-rw-r--r--. 1 ugrad   1877 May  4 00:30 Buyer.cpp
+-rw-r--r--. 1 ugrad    485 May  3 21:51 Buyer.h
+-rw-r--r--. 1 ugrad   3918 Apr 30 14:57 createOrders.cpp
+-rw-r--r--. 1 ugrad    672 May  4 00:24 Entity.cpp
+-rw-r--r--. 1 ugrad    469 May  4 00:22 Entity.h
+-rw-r--r--. 1 ugrad    165 May  3 23:24 err.log
+-rw-r--r--. 1 ugrad      0 Apr 30 14:07 err.logmake
+-rw-r--r--. 1 ugrad   1776 Apr 30 14:35 Inventory.cpp
+-rw-r--r--. 1 ugrad    681 Apr 30 12:14 Inventory.h
+-rw-r--r--. 1 ugrad   1892 May  4 15:35 Makefile
+-rw-r--r--. 1 ugrad    788 Apr 24 12:00 Order.cpp
+-rw-r--r--. 1 ugrad    379 Apr 24 12:00 Order.h
+-rw-r--r--. 1 ugrad   2094 Apr 15 15:46 Product.cpp
+-rw-r--r--. 1 ugrad   1055 Apr 15 16:36 Product.h
+-rw-r--r--. 1 ugrad    296 May  4 15:40 README
+-rw-r--r--. 1 ugrad      0 May  4 15:43 rec3714
+-rw-r--r--. 1 ugrad    507 May  3 23:24 Retailer.cpp
+-rw-r--r--. 1 ugrad    379 May  3 23:23 Retailer.h
+-rw-r--r--. 1 ugrad   2339 Apr 30 14:58 Seller.cpp
+-rw-r--r--. 1 ugrad    542 May  3 22:31 Seller.h
+-rw-r--r--. 1 ugrad  32455 May  4 00:31 sim.log
+-rwxr-xr-x. 1 ugrad 172376 May  4 15:36 simulation
+-rw-r--r--. 1 ugrad   2894 May  4 00:20 simulation.cpp
+-rw-r--r--. 1 ugrad   3220 Apr 30 13:31 stockInventory.cpp
+-rw-r--r--. 1 ugrad    745 Apr 30 16:05 testBuyer.cpp
+-rw-r--r--. 1 ugrad    314 Apr 24 09:53 testEntity.cpp
+-rw-r--r--. 1 ugrad   2026 May  3 20:51 testRetailer.cpp
+-rw-r--r--. 1 ugrad    681 Apr 30 14:31 testSeller.cpp
+/home/ugrads/speegle/1730/Project4:/home/work/cs1730

@@ -1,0 +1,7 @@
+William Speegle
+810 316 204
+
+
+Buyer step fills the order, then subtracts the order total, then increases balance by 10%. It then sets all orders to +4 of each item.
+
+Seller step attempts to buy the correct quantity and subtracts the expense (1/2 the price of the item) from the Seller's balance.

@@ -1,0 +1,1 @@
+g++ -std=c++11 -o testRetailer testRetailer.cpp Entity.cpp Seller.cpp Buyer.cpp Retailer.cpp stockInventory.cpp createOrders.cpp Product.cpp Order.cpp Inventory.cpp
